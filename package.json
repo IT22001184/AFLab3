@@ -1,0 +1,19 @@
+{
+  "name": "aflab",
+  "version": "1.0.0",
+  "description": "lab sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT22001184/AFLab3.git"
+  },
+  "author": "samudra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT22001184/AFLab3/issues"
+  },
+  "homepage": "https://github.com/IT22001184/AFLab3#readme"
+}
